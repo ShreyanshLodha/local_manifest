@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="ShreyanshLodha/device_oneplus_oneplus2" path="device/oneplus/oneplus2" remote="github" revision="oreo-mr1" />
+  <project name="AOSiP-Devices/device_oppo_common" path="device/oppo/common" remote="github" revision="oreo-mr1" />
+  <project name="ShreyanshLodha/BlueBolt-OnePlus-2" path="kernel/oneplus/msm8994" remote="github" revision="new-oreo" />
+  <project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github" revision="lineage-15.1" />
+  <project name="AOSiP-Devices/vendor_oneplus_oneplus2" path="vendor/oneplus/oneplus2" remote="github" revision="oreo-mr1" />
+</manifest>
