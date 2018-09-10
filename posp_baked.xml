@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="ShreyanshLodha/device_oneplus_oneplus2-priv" path="device/oneplus/oneplus2" remote="github" revision="pie" />
+  <project name="PotatoDevices/device_oppo_common" path="device/oppo/common" remote="github" revision="baked-release" />
+  <project name="ShreyanshLodha/BlueBolt-OnePlus-2" path="kernel/oneplus/msm8994" remote="github" revision="pie" />
+  <project name="Shreeesha/proprietary_vendor_oneplus_oneplus2" path="vendor/oneplus/oneplus2" remote="github" revision="pie" />
+  <project name="Shreeesha/android_hardware_qcom_audio" path="hardware/qcom/audio-caf/msm8994" remote="github" revision="lineage-16.0-caf-8994" />
+  <project name="Shreeesha/android_hardware_qcom_display" path="hardware/qcom/display-caf/msm8994" remote="github" revision="lineage-16.0-caf-8994" />
+  <project name="Shreeesha/android_hardware_qcom_media" path="hardware/qcom/media-caf/msm8994" remote="github" revision="lineage-16.0-caf-8994" />
+</manifest>
